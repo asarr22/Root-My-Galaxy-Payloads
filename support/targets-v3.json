@@ -4,25 +4,21 @@
     {
       "payloadId": "gts9fewifi-X510XXSEEZG3",
       "displayName": "Galaxy Tab S9 FE Wi-Fi | Kernel 5.15.189",
-      "models": [
-        "SM-X510"
-      ],
-      "kernelVersions": [
-        "5.15.189"
-      ],
+      "models": ["SM-X510"],
+      "kernelVersions": ["5.15.189"],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/asarr22/Root-My-Galaxy-Payloads/main/artifacts/gts9fewifi-X510XXSEEZG3/cve-2026-43499-app.so",
-        "size": 132088
+        "url": "https://raw.githubusercontent.com/hmd-msrf-k/Root-My-Galaxy-Payloads/gts9fewifi-X510XXSEEZG3-v4/artifacts/gts9fewifi-X510XXSEEZG3/cve-2026-43499-app.so",
+        "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/asarr22/Root-My-Galaxy-Payloads/main/kernelsu/ksud-gts9fewifi-X510XXSEEZG3-kdp",
+        "url": "https://raw.githubusercontent.com/hmd-msrf-k/Root-My-Galaxy-Payloads/gts9fewifi-X510XXSEEZG3-v4/kernelsu/ksud-gts9fewifi-X510XXSEEZG3-kdp",
         "size": 3828432
       },
       "kernelsu-next": {
-        "url": "https://raw.githubusercontent.com/asarr22/Root-My-Galaxy-Payloads/main/kernelsu/ksud-next-gts9fewifi-X510XXSEEZG3-kdp",
+        "url": "https://raw.githubusercontent.com/hmd-msrf-k/Root-My-Galaxy-Payloads/gts9fewifi-X510XXSEEZG3-v4/kernelsu/ksud-next-gts9fewifi-X510XXSEEZG3-kdp",
         "size": 4083520
       }
-    },
+    },    
     {
       "payloadId": "pa3q-S938BXXUCZZHL",
       "displayName": "Galaxy S25 Ultra One UI 9 Beta 1",
