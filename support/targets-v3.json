@@ -39,7 +39,7 @@
     },
     {
       "payloadId": "pa3q-S938BXXUCZZI4",
-      "displayName": "Galaxy S25 Ultra One UI 9 ZZI4",
+      "displayName": "Galaxy S25 Ultra One UI 9 Beta 2",
       "models": [
         "SM-S938B",
         "SM-S938N",
@@ -54,7 +54,7 @@
         "size": 104128
       },
       "kernelsu": {
-        "url":"https://raw.githubusercontent.com/asarr22/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "url":"https://raw.githubusercontent.com/asarr22/Root-My-Galaxy-Payloads/main/kernelsu/ksud-next-s25u-kdp",
         "size": 3994040
       }
     },
