@@ -44,7 +44,9 @@
         "SM-S938B",
         "SM-S938N",
         "SM-S931B",
-        "SM-S936B"
+        "SM-S931N",
+        "SM-S936B",
+        "SM-S936N"
       ],
       "kernelVersions": [
         "6.6.127"

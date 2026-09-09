@@ -2,10 +2,10 @@
 #define OFFSET_H
 
 #if defined(APP_PAYLOAD) && APP_PAYLOAD
-#define BUILD_VARIANT_LABEL "pa3q-S938BXXUCZZHL-app-physical-p0-oracle"
+#define BUILD_VARIANT_LABEL "pa3q-S938BXXUCZZI4-app-physical-p0-oracle"
 #define APP_PHYS_P0_ORACLE 1
 #else
-#define BUILD_VARIANT_LABEL "pa3q-S938BXXUCZZHL-root-umh"
+#define BUILD_VARIANT_LABEL "pa3q-S938BXXUCZZI4-root-umh"
 #endif
 #ifndef BUILD_FINGERPRINT
 #define BUILD_FINGERPRINT "ssamsung/pa3qxxx/pa3q:17/CP2A.260605.016/S938BXXUCZZI4_OXMCZZI4:user/release-keys"
